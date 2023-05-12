@@ -1,1 +1,1 @@
-Free Python course from GeekBrains 
+Free Python course from GeekBrains for beginners 
